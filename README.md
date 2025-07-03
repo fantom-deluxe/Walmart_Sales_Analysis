@@ -10,9 +10,9 @@ This project analyzes Walmart’s historical weekly sales data using Python, SQL
 
 ## Files Included
 
-- `Cleaned_Walmart_Sales.csv` – Preprocessed dataset used for analysis
-- `Walmart_Notebook.ipynb` – Python notebook for EDA, visualizations, and correlation analysis
-- `SQLQuery1.sql` – SQL queries for slicing, aggregating, and summarizing sales data
+- `Cleaned_Walmart_Sales.csv` – Processed dataset used for making dashbooard
+- `Walmart_Notebook.ipynb` – Python notebook for cleaning data, EDA, visualizations, and correlation analysis
+- `SQLQuery1.sql` – SQL queries for cleaning and preprocessing, and summarizing sales data
 - `Walmart_Sales_Dashboard.pbix` – Power BI dashboard with store-wise visual insights
 - `Dataset` – Contains the original raw dataset in csv file.
 
